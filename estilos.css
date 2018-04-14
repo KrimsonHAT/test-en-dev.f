@@ -1,0 +1,27 @@
+p{
+    color: red;
+    border: 2px solid rgb(255, 255, 255);
+    text-transform: uppercase;
+    
+}
+.texto-tachado{text-decoration: line-through;}
+.texto-tachado:hover{
+    text-decoration: none;
+    color: aquamarine;
+    transform: translateX(5px);
+}
+#el.parrafo{
+    background-color: rgb(231, 229, 101)
+}
+h1{
+    color: yellow;
+    border: 2px dotted green;
+    margin: 15px;
+    text-decoration: line-through;
+}
+body{
+    background-color: black;
+    border: 2px solid rgb(110, 84, 11);
+    padding: 16px
+    
+}
