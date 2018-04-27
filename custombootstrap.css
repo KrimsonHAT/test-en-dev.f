@@ -1,0 +1,12 @@
+.row div{
+    background-color: lightgrey;
+    border: 1px solid black;
+    padding: 10px;
+}
+.row .vacio{
+    background-color: white;
+    border: 1px dashed lightgray;
+}
+.altura-320px{
+    height: 320px;;
+}

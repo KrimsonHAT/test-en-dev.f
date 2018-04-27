@@ -1,0 +1,5 @@
+$("#box")
+.effect("highlight",{},600)
+.hide("explode",{pieces:100}, 300)
+.show("explode",{pieces: 300},300)
+.effect("highlight",{},350)

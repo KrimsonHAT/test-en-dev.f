@@ -1,0 +1,33 @@
+body{
+    border: 0px;
+    background-color: lightgray;
+    font-family: 'Times New Roman', Times, serif;
+    transition: all 0.5s ease;
+
+}
+.centrado{
+    margin-left: auto;
+    margin-right:  auto;
+    text-align: center;
+}
+
+.container{
+    width: 50%;
+    background-color: white;
+    box-shadow: rgba(0,0,0,0.5) 2px 2px 2px;
+    padding: 20px;
+}
+input{
+    background-color: transparent;
+    border: 0px;
+    border-bottom: solid 1px gray;
+    padding: 5px;
+    display: block;
+    text-align: left !important;
+    margin-bottom: 10px;
+}
+button{
+    border: 0px;
+    padding: 5px;
+    box-shadow: forestgreen;
+}

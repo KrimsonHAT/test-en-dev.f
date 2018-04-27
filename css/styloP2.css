@@ -1,0 +1,30 @@
+/* esta es una nota para decir que background: es el color del fondo 
+de mi pagina-- y color: es el color de las letras de mi página*/
+
+body {background: #30a38a;;
+    color: #fffffb
+}
+/* etse simbolo * asterisco solo se usa practicamente 
+para cambiar todos aspectos de todos los elementos
+pero regularmente solo se usa para margin: ; propiedad que nos permite agregar margen
+y padding: ; marhen interno que tienen los elementos 
+* {
+    margin: 0;
+    padding: 0;
+}  
+*/
+
+h2{
+    color: #d61010
+}
+h2{font-size: 30px}
+p{
+    color: #fffffb
+}
+p{
+    font-size: 20px;
+    color: #57fc72;
+}
+a{font-size: 25px;
+    color: yellow
+}
